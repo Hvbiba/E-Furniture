@@ -162,9 +162,8 @@ h4{
      padding:20px 40px; background-color: #eee;
 }
 .product{
-    position: relative;
-    width: 275px; margin: 10px 0px 15px 15px;
-    border: 0.5px #586066 solid;
+    position: relative; width: 275px;
+    margin: 10px 0px 15px 15px; border: 0.5px #586066 solid;
 }
 .product .offer , .product i{
     position: absolute;
@@ -273,7 +272,7 @@ footer .contanair div {
         flex-direction: column;
     }
     footer .contanair input{
-        width: 155px; height: 38px;
+        width: 150px; height: 38px;
     }
     footer .contanair{
         padding: 20px 30px; margin-right: 0px;
